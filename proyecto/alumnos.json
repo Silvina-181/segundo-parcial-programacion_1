@@ -1,0 +1,20 @@
+{
+    "48501231": {
+        "nombre": "Lucas",
+        "apellido": "pinto",
+        "edad": 18,
+        "nota": 9.0
+    },
+    "28573837": {
+        "nombre": "silvina",
+        "apellido": "ramirez",
+        "edad": 45,
+        "nota": 7.0
+    },
+    "29945826": {
+        "nombre": "daniela",
+        "apellido": "carla",
+        "edad": 40,
+        "nota": 9.0
+    }
+}
