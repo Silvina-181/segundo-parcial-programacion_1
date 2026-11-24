@@ -25,3 +25,6 @@ Programa para administrar el registro de alumnos y almacenar la información en 
 * **Separación en módulos:** Programa dividido en 5 archivos según la tarea de cada uno para que el código sea ordenado y fácil de mantener.
 * **Guardado automático:** Cada vez que se agrega, modifica o elimina un alumno, se actualiza `alumnos.json` automáticamente.
 
+## Video explicativo
+
+* [Ver demostración y explicación completa en Google Drive](https://drive.google.com/file/d/1gcoPGeuLyd3jTpnydfvn3S2q_RYovh2-/view?usp=drive_link)
