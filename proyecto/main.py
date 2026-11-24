@@ -50,7 +50,6 @@ def main():
         else:
             print("Error: Opción inválida. Por favor, elija un número del 1 al 7.")
 
-
 main()
 
 
