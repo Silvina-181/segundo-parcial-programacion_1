@@ -27,4 +27,4 @@ Programa para administrar el registro de alumnos y almacenar la información en 
 
 ## Video explicativo
 
-* [Ver demostración y explicación completa en Google Drive](https://drive.google.com/file/d/1gcoPGeuLyd3jTpnydfvn3S2q_RYovh2-/view?usp=drive_link)
+* [Ver demostración y explicación completa en Google Drive](https://drive.google.com/file/d/1e3oNBa8RTKLs8iqjfFcbAq2N72xl-J5W/view?usp=drive_link)
